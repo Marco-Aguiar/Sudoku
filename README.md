@@ -1,3 +1,2 @@
-# Este é um algoritmo que permite fazer automaticamente o jogo "Sudoku"
-# Basta apenas inserir o tamanho da matriz e seus números que o algoritmo dirá se 
-# é possivel realizar o jogo ou não.
+# Portuguese - Este é um algoritmo que permite fazer automaticamente o jogo "Sudoku" basta apenas inserir o tamanho da matriz e seus números que o algoritmo dirá se é possivel realizar o jogo ou não.
+# English - This is an algorithm that allows you to automatically play the "Sudoku" game, just enter the grid size and its numbers and the algorithm will tell you if it is possible to play the game or not.
